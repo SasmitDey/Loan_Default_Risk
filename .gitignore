@@ -1,2 +1,5 @@
 #virutal environment files
 venv/
+
+#checkpoints
+.ipynb_checkpoints/
