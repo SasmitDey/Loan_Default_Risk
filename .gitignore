@@ -3,3 +3,7 @@ venv/
 
 #checkpoints
 .ipynb_checkpoints/
+
+#random practice files
+practice_dataset/
+practice_notebooks/
